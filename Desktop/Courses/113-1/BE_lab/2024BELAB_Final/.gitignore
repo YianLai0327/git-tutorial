@@ -57,4 +57,4 @@ temp/
 .tmp/
 
 # #model files
-# *.pth
+model_path
